@@ -1,3 +1,5 @@
+//Nesse código tentei achar uma forma de utilizar os laços de repetição
+
 let nomeHeroi = "Garantelo";
 let xp = 1200000
 let nivel = "";

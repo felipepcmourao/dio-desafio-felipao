@@ -1,3 +1,5 @@
+//Utilizei variável, estrutura de controle e operadores
+
 let nomeHeroi = "Joaquino"
 let xp = 2003
 let nivel

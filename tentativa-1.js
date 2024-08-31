@@ -1,3 +1,5 @@
+//Utilizei variável, operadores e estruturas de decisão
+
 let nomeHeroi = "Garantelo";
 let xp = "11000";
 let nivel = "";
