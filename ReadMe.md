@@ -1,4 +1,4 @@
-#Instruções para entrega
+# Instruções para entrega
 ## 1️⃣ Desafio Classificador de nível de Herói
 
 **O Que deve ser utilizado**
@@ -26,7 +26,7 @@ Se XP for maior ou igual a 10.001 = Radiante
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
-#Como eu fiz
+# Como eu fiz
 
 Eu não consegui pensar em uma forma de utilizar estruturas de controle, estruturas de decisão e laços de repetição juntos nesse desafio. Por isso criei três códigos diferentes para tentar utilizar todos na solução do desafio, mesmo que não juntos.
 
